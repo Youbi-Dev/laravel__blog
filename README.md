@@ -1,5 +1,11 @@
 ## Insatalition 
 
+* npm install
+* composer update
+* php artisan migrate
+* npm run dev
+* php artisan serve
+  Enjoy 👍👍👍
 
 
 
